@@ -36,10 +36,6 @@ The Expenses Tracker project is a simple web application designed to help users 
 ## Contribution
 Feel free to fork this repository, make enhancements, and create pull requests. Any contributions are welcome!
 
-## License
-This project is licensed under the MIT License.
-
----
 
 For more details, visit the [Expenses Tracker repository](https://github.com/aashish-thapa/expenses-tracker).
 ```
